@@ -3,8 +3,7 @@ CID_067_Athena_Commando_F_SkiGirl_CHN, 1500
 CID_065_Athena_Commando_F_SkiGirl_FRA, 1500
 na
 na
-na
-CID_197_Athena_Commando_F_Biker, 1200
+BID_053_JailbirdMale 1200
 Pickaxe_ID_014_WinterCamo, 500
 Glider_ID_095_Witch, 800
 CID_414_Athena_Commando_F_MilitaryFashion, 800
